@@ -1,6 +1,6 @@
-# Arduino_Projects
+# Arduino_Project_1
 
-# LED Distance Indicating Arduino Project
+# DISTANCE SENSING LED ARRAY
 
 ## Introduction
 Welcome to the LED Distance Indicating Arduino project repository! In this project, we use an Arduino Uno board and an ultrasonic sensor to create a distance indicating system using LED lights.
