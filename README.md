@@ -33,7 +33,7 @@ Find instructional videos in the "Experiment_Videos" folder to guide you through
 4. **Run the Code:**
 Open the Arduino IDE, load the provided code from the repository, and upload it to your Arduino Uno board.
 
-5. **Contribution:**
+## Contributions
 Contributions are welcome!
 If you have any improvements or suggestions, feel free to contribute! 
 
