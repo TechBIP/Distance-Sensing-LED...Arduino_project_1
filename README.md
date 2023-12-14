@@ -15,11 +15,11 @@ The main goal of this experiment is to use an ultrasonic sensor to measure the d
 
 ### Apparatus Required
 - Arduino Uno Board
-- Breadboards (number: 2)
+- Breadboards (quantity: 1)
 - LED Lights (quantity: 7)
 - 1K Ohm Resistors (quantity: 7)
 - Ultrasonic Sensor
-- Jumper Cables
+- Jumper Cables (As per requirement)
 
 ## Instructions
 1. **Clone the Repository:**
